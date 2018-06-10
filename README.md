@@ -1,6 +1,6 @@
 ![small_logo_new](https://user-images.githubusercontent.com/34412229/41201244-60ad7274-6cb4-11e8-85d3-9a263471b193.jpg)
 # ST MODULAR
-EURORACK DIY
+_######EURORACK DIY_
 
 This repository was made to provide you with the neccessary information to source your parts and find their place on the PCB. There won´t be any full build documentations available at any time in the future.
 
