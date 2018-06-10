@@ -8,4 +8,4 @@ If you got ST Modular PCBs you will need to solder 0603 packaged components. The
 
 I do not offer or perform repairs of any type.
 
-For more information about each modules functionality please visit [www.st-modular.com](http://www.st-modular.com)
+For more information about the functionality of the modules please visit [www.st-modular.com](http://www.st-modular.com).
