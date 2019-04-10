@@ -9,3 +9,5 @@ Rungler CV → Pitch CV In
 LFO PULSE → TIMBRE CV In
 LFO TRIANGLE → WAVESHAPE CV In
 Connections are interrupted when inserting a patchcable
+
+Please use the same *.hex files as for V1!
