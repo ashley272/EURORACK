@@ -1,1 +1,11 @@
-c
+Changelog V2:
+
+AVR Header added to PCB bottom for programming on PCB
+
+Enlarged Diode Pads for better soldering experience
+
+CV Sources are normalled to CV Input switches for instant wiggling withoug patching itself:
+Rungler CV → Pitch CV In
+LFO PULSE → TIMBRE CV In
+LFO TRIANGLE → WAVESHAPE CV In
+Connections are interrupted when inserting a patchcable
